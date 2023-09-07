@@ -7,5 +7,5 @@ site: bookdown::bookdown_site
 
 # Introduction
 
-prueba 1 para ver si se aplican todos lso resultados
+## prueba 1 para ver si se aplican todos lso resultados
 
